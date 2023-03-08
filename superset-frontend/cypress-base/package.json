@@ -13,7 +13,7 @@
     "@cypress/code-coverage": "^3.7.6"
   },
   "devDependencies": {
-    "cypress": "4.7.0",
+    "cypress": "4.12.1",
     "eslint-plugin-cypress": "^2.11.1"
   }
 }
