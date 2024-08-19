@@ -14,9 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-black==19.10b0
+black==24.3.0
 coverage==4.5.3
-flask-cors==3.0.7
+flask-cors==4.0.1
 flask-testing==0.8.0
 ipdb==0.12
 isort==4.3.21
@@ -30,7 +30,7 @@ pydruid==0.6.1
 pyhive==0.6.2
 pylint==1.9.2
 redis==3.5.1
-requests==2.23.0
+requests==2.32.2
 statsd==3.3.0
 tox==3.11.1
-pillow==7.0.0
+pillow==10.3.0
